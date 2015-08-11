@@ -1,2 +1,4 @@
 # object oriented programming in c
-examples for my future article
+Code examples for my articles
+[Visit habrahabr blog!](http://habrahabr.ru/users/dehasi/topics/)
+
